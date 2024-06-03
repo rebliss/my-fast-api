@@ -1,2 +1,9 @@
 fastapi
 uvicorn
+sqlalchemy
+databases
+python-dotenv
+pydantic
+pydantic-settings
+aiosqlite
+asyncpg
